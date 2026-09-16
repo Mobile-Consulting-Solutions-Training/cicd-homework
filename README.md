@@ -68,6 +68,12 @@ $ curl -s http://localhost:8111
 {"application":"CI/CD Homework","version":"2.0.0"}
 ```
 
+**Screenshots - v2.0.0 running live:**
+
+| Root endpoint (`/`) | Health check (`/health`) |
+|---|---|
+| ![v2.0.0 root endpoint](screenshots/v2.0.0-root-endpoint.png) | ![v2.0.0 health endpoint](screenshots/v2.0.0-health-endpoint.png) |
+
 ## Running It Yourself
 
 ```bash
